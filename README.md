@@ -36,7 +36,7 @@ Click on the link below to view the site
 
 * CSS 
 
-* JAVASCRIPT - which has been used for form validation and jQuery
+* JAVASCRIPT 
 
 
 ## Licence
