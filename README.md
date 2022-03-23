@@ -1,6 +1,6 @@
 ### Delani Studio
 
-##### By Jacob Maina
+##### By Esther Kimani
 
 ![Project Image](assets/delaniscreenshot.png)
 
