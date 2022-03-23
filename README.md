@@ -30,20 +30,20 @@
 ### The Installation Process
 ****
 Click on the link below to view the site
-[https://jacobrugano.github.io/delanistudio/]
+[https://estherkimani.github.io/delanistudio/]
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
-* CSS - which was used to style the pages incuding the left aside navigation bar
+* CSS - which was used to style the pages including the left aside navigation bar
 
-* JAVASCRIPT - which has been used for form validation and jquery
+* JAVASCRIPT - which has been used for form validation and jQuery
 
 
 ## Licence
 
 MIT License
 
-Copyright (c) [2021] [Jacob Maina]
+Copyright (c) [2021] [Esther Kimani]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -62,7 +62,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Authors Info
-
-Check out more about the author - [Jacob Rugano](https://ke.linkedin.com/in/jacob-maina-6767a359)
