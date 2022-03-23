@@ -23,18 +23,18 @@
 
 ### Requirements
 
-* Either a computer,phone,tablet or an Ipad
+* A computer,phone,tablet or an Ipad
 
-* An access to the Internet
+* An access Internet
 
 ### The Installation Process
 ****
 Click on the link below to view the site
 [https://estherkimani.github.io/delanistudio/]
 ## Technology Used
-* HTML - which was used to build the structure of the pages.
+* HTML 
 
-* CSS - which was used to style the pages including the left aside navigation bar
+* CSS 
 
 * JAVASCRIPT - which has been used for form validation and jQuery
 
